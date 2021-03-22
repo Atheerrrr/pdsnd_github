@@ -12,7 +12,7 @@ Post your Work on Github
 
 ### Description
 
-Describe what your project is about and what it does
+Upload a project from local machine to github through Git commands
 
 ### Files used
 
